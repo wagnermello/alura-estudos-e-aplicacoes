@@ -5,17 +5,25 @@
 <p align="center">⚠️ Projeto em eterno desenvolvimento ⚠️</p>
 
 <p align="center">Você pode acessar o projeto completo no meu site:</p>
-<p align="center">https://wagnermello.com/alura-estudos-e-aplicacoes/projetos/</p> 
-
+<p align="center">https://wagnermello.com/alura-estudos-e-aplicacoes/projetos/</p>
 
 #
 
+<h3>HTML/CSS</h3>
+
+1.  HTML cursos 1 à 4
+2.  Layout Responsivo
+3.  Flexbox e Grid
+4.  Css Grid Layout
+5.  Posicionando Elementos com Flexbox
+6.  Acessibilidade Web
+7.  Praticando HTML e CSS
+
 <h3>JavaScript</h3>
 
-01. Alura MIDI
-
+1.  Alura MIDI
 
 <h3>Linguagem C</h3>
 
-01. Jogo de Adivinhação
-02. Tabuada
+1.  Jogo de Adivinhação
+2.  Tabuada
